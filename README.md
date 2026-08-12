@@ -56,6 +56,8 @@ Future in the Past
 
 ## 1.1. TIME — "Khi nào?"
 
+> Nếu không thể hiện thời gian, người khác sẽ không biết bạn đang nói về việc gì xảy ra lúc nào.
+
 Ví dụ:
 
 > I worked yesterday.
@@ -98,6 +100,8 @@ NOW                         FUTURE
 ---
 
 ## 1.2. ASPECT — "Hành động đang ở trạng thái nào?"
+
+> Là trạng thái của hành động. Trạng thái này phải được thể hiện rõ thì người khác mới hiểu được hành động của bạn là thường xuyên, đang diễn ra, hay đã diễn ra.
 
 So sánh:
 
